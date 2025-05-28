@@ -22,4 +22,5 @@ This is a project I've started before highway, however I haven't made too much p
 - Design PCB for project
 - Design Case
 - Write working code
+
 ie. basically redesign the entire project to *work*
