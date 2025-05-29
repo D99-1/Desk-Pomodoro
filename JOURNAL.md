@@ -24,3 +24,15 @@ This is a project I've started before highway, however I haven't made too much p
 - Write working code
 
 ie. basically redesign the entire project to *work*
+
+**Total Time Spent: 10H0M**
+# Thursday, May 29: Started Designing PCB
+Researched the components required to build the project with a PCB. Decided on the Xiao-ESP32-S3 for it's compact size and integrated battery circuit. Also switched from a TM1637 to a 2.42" Oled Display to add room for expansion. Started designing the PCB by finding and placing the footprint and schematic of the Xiao.
+
+Research:
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/ecbdc3f7-2bff-4072-a9f4-6d0222f18e95" />
+
+PCB:
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/69d14324-1dda-4f66-ad34-5d8d5d5a31a2" />
+
+**Total Time Spent: 11H10M**
